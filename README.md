@@ -7,3 +7,5 @@ This project is a clone for link tree (https://linktr.ee)
 * using Async function to copy the links to the clipboard 
 
 used Stack: Html - Css - Javascript 
+
+You can check the live project here:
