@@ -8,4 +8,7 @@ This project is a clone for link tree (https://linktr.ee)
 
 used Stack: Html - Css - Javascript 
 
-You can check the live project here:
+You can check the live project here on netlify: https://link-tree-mermates.netlify.app
+
+
+Updates: Working on make the main share button copy the link-tree url to the clipboard.
